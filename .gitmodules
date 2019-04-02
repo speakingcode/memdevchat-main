@@ -1,0 +1,6 @@
+[submodule "memdevchat-server"]
+	path = memdevchat-server
+	url = git@github.com:speakingcode/memdevchat-server.git
+[submodule "memdevchat-client"]
+	path = memdevchat-client
+	url = git@github.com:speakingcode/memdevchat-client.git
